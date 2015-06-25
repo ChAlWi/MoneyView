@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyView.UI", "MoneyView.UI\MoneyView.UI.csproj", "{D9EF0042-5097-4FB7-B546-6F3D32CFBEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyView.Model", "MoneyView.Model\MoneyView.Model.csproj", "{4633FDFE-85D7-4738-AE25-CD8089811CD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyView.Data", "MoneyView.Data\MoneyView.Data.csproj", "{A7AF8C9A-C94C-47B4-9E4D-06DFC01293AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyView.Components", "MoneyView.Components\MoneyView.Components.csproj", "{031A5744-DB00-48B5-B970-840EDC80D608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyView.Components.Tests", "MoneyView.Components.Tests\MoneyView.Components.Tests.csproj", "{84795B68-CA3A-432A-96CA-D9A7C430FA1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9EF0042-5097-4FB7-B546-6F3D32CFBEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EF0042-5097-4FB7-B546-6F3D32CFBEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EF0042-5097-4FB7-B546-6F3D32CFBEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EF0042-5097-4FB7-B546-6F3D32CFBEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4633FDFE-85D7-4738-AE25-CD8089811CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4633FDFE-85D7-4738-AE25-CD8089811CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4633FDFE-85D7-4738-AE25-CD8089811CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4633FDFE-85D7-4738-AE25-CD8089811CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7AF8C9A-C94C-47B4-9E4D-06DFC01293AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7AF8C9A-C94C-47B4-9E4D-06DFC01293AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7AF8C9A-C94C-47B4-9E4D-06DFC01293AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7AF8C9A-C94C-47B4-9E4D-06DFC01293AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{031A5744-DB00-48B5-B970-840EDC80D608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031A5744-DB00-48B5-B970-840EDC80D608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031A5744-DB00-48B5-B970-840EDC80D608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031A5744-DB00-48B5-B970-840EDC80D608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84795B68-CA3A-432A-96CA-D9A7C430FA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84795B68-CA3A-432A-96CA-D9A7C430FA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84795B68-CA3A-432A-96CA-D9A7C430FA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84795B68-CA3A-432A-96CA-D9A7C430FA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

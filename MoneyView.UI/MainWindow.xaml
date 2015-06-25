@@ -1,0 +1,5 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Views="clr-namespace:MoneyView.UI.Views" x:Class="MoneyView.UI.MainWindow"
+        Title="MainWindow" Height="350" Width="525"/>
